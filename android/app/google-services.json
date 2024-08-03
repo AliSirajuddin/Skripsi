@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "54938574355",
+    "firebase_url": "https://ggr-farm-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ggr-farm",
+    "storage_bucket": "ggr-farm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54938574355:android:41e32d330f2540fea0e9e6",
+        "android_client_info": {
+          "package_name": "com.example.ggr_alpha_1_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54938574355-ipir38l0nam62vnhsga5n6oqrmsaq96m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ggr_alpha_1_1",
+            "certificate_hash": "d0773818aaf199312e457d18c641a6911846b2c2"
+          }
+        },
+        {
+          "client_id": "54938574355-a2ost3c4cebe5v0unbef8iprvatn5l5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_QaJTioqhK1_gb_cSUfrBOUD9TxbK9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54938574355-1fid6oco1tn2146is54jfrgmfjhir7kd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54938574355-e0l0htvqk6gj9pq99u83eiqvqncpa88r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeMonitoringFix"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54938574355:android:72a4c630460812b2a0e9e6",
+        "android_client_info": {
+          "package_name": "com.example.home_monitoring_fix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54938574355-a2ost3c4cebe5v0unbef8iprvatn5l5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_QaJTioqhK1_gb_cSUfrBOUD9TxbK9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54938574355-1fid6oco1tn2146is54jfrgmfjhir7kd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54938574355-e0l0htvqk6gj9pq99u83eiqvqncpa88r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeMonitoringFix"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54938574355:android:9f2de1c31018d124a0e9e6",
+        "android_client_info": {
+          "package_name": "com.example.homescreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54938574355-8nfqhjki8706h7j44fbflff7e91hbsv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homescreen",
+            "certificate_hash": "5b1e6d4b1e28a61393229c8db2659e77e9974102"
+          }
+        },
+        {
+          "client_id": "54938574355-a2ost3c4cebe5v0unbef8iprvatn5l5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_QaJTioqhK1_gb_cSUfrBOUD9TxbK9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54938574355-1fid6oco1tn2146is54jfrgmfjhir7kd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54938574355-e0l0htvqk6gj9pq99u83eiqvqncpa88r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeMonitoringFix"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54938574355:android:d9d2a9b516447bb4a0e9e6",
+        "android_client_info": {
+          "package_name": "example.ggr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54938574355-a2ost3c4cebe5v0unbef8iprvatn5l5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_QaJTioqhK1_gb_cSUfrBOUD9TxbK9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54938574355-1fid6oco1tn2146is54jfrgmfjhir7kd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54938574355-e0l0htvqk6gj9pq99u83eiqvqncpa88r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeMonitoringFix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
